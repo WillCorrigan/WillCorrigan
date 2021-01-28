@@ -1,4 +1,4 @@
-[Header] <img src="https://raw.githubusercontent.com/WillCorrigan/WillCorrigan/main/drawing-1.png" alt="hero-image">
+Readme profile coming soon!
 
 <!--
 **WillCorrigan/WillCorrigan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
