@@ -1,3 +1,5 @@
+<img src="https://github.com/WillCorrigan/WillCorrigan/blob/main/githubbanner.png" alt="will corrigan, software developer">
+
 Readme profile coming soon!
 
 <!--
