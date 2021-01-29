@@ -1,7 +1,8 @@
-<img src="https://github.com/WillCorrigan/WillCorrigan/blob/main/githubbanner.png" alt="will corrigan, software developer">
+👋 Hi, I'm Will!
 
-Readme profile coming soon!
+I'm a self-taught developer currently working on learning C#. Feel free to send me a message if you'd like to help out!
 
+<a href="https://www.linkedin.com/in/william-corrigan-8a3434a0/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <!--
 **WillCorrigan/WillCorrigan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
