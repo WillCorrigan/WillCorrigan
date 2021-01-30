@@ -22,6 +22,26 @@ I created a bot for the popular app <a href="https://discord.com/">Discord</a>. 
 
 </details>
 
+<details>
+<summary>Face Recognition Website</summary>
+<br>
+This is a website that utilises React/Node.js/Express.js/PostgreSQL. It allows a user to register to the website (which is stored in the database and their password is encrypted with <a href="https://www.npmjs.com/package/bcrypt">Bcrypt</a>. Once in the website a user is able to paste a link to an image of a face in a search box. This image is then displayed on the website automatically and a face recognition API is contacted (this provides bounding box co-ordinates for a face in an image). I use CSS to render these co-ordinates to display a box around the image highlighting the face. If a face is detected, the user's score is updated.
+<br>
+  
+<a href="https://github.com/WillCorrigan/Discord-Bot-Testing">Github Link</a>
+
+</details>
+<details>
+<summary>Discord Mafia Bot</summary>
+<br>
+I created a bot for the popular app <a href="https://discord.com/">Discord</a>. This bot was coded in Python and utilises the Discord API and asynchronous Python to play the social party game of Mafia/Werewolf. Please see the readme for more information!
+<br>
+  
+<a href="https://github.com/WillCorrigan/facerecognitionapi">Github Link</a>
+You can see this in action at <a href="https://smartface-wc.herokuapp.com/">face recognition website link</a>
+
+</details>
+
 
 
 
