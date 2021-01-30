@@ -78,7 +78,7 @@ Thus, I took it upon myself to learn a very popular Python framework (Django). I
 
 These are all created with C# and Unity:
 
- 1. <a target="_blank" href="https://sharemygame.com/@Holyflare/~cbd864e6-db6a-9036-9024-9397e0e52498">Rocket Boost - Playable Demo</a>
+ 1. <a target="_blank" href="https://sharemygame.com/@Holyflare/~cbd864e6-db6a-9036-9024-9397e0e52498">Rocket Boost - Playable Demo</a> (Controls: A/D (turn), Space (boost))
   
  2. <a target="_blank" href="https://github.com/WillCorrigan/6_Zombie_Runner">Zombie Survival Game</a>
  
