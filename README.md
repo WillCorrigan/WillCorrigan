@@ -11,6 +11,10 @@
 ## I'm currently working on
 <a target="_blank" href="https://github.com/WillCorrigan/InventoryManager">C# Inventory Manager</a>
 
+
+
+
+
 ## Notable Projects
 
 <!-- Discord Mafia Bot -->
@@ -68,6 +72,9 @@ Thus, I took it upon myself to learn a very popular Python framework (Django). I
 </details>
 
 ---
+
+## Video Game Development
+#### As I was learning programming and in my spare time learning digital art, I thought it would be fun to also learn video game development alongside my programming studies. Here are a collection of things that I've learnt on the way:
 
 
 <!--
