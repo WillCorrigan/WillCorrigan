@@ -7,6 +7,7 @@
 
 <a href="https://www.linkedin.com/in/william-corrigan-8a3434a0/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:wcorrigan90@gmail.com" alt="Gmail Badge">
+<img src="https://img.shields.io/badge/-Portfolio-green" alt="portfolio website">
 
 ## I'm currently working on
 <a target="_blank" href="https://github.com/WillCorrigan/InventoryManager">C# Inventory Manager</a>
