@@ -45,6 +45,7 @@ This is a website that utilises React/Node.js/Express.js/PostgreSQL. It allows a
   * Javascript
   * React
   * Node/Express
+  * PostgreSQL
   
 <a href="https://github.com/WillCorrigan/Discord-Bot-Testing">Github Link</a>
 
