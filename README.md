@@ -20,7 +20,7 @@
 
 <!-- Discord Mafia Bot -->
 <details>
-<summary>Discord Mafia Bot</summary>
+<summary>Discord Mafia/Werewolf Bot</summary>
 <br>
 I created a bot for the popular app <a href="https://discord.com/">Discord</a>. This bot was coded in Python and utilises the Discord API and asynchronous Python to play the social party game of Mafia/Werewolf. Please see the readme for more information!
 
