@@ -86,7 +86,13 @@ These are all created with C# and Unity:
  
  4. <a target="_blank" href="https://github.com/WillCorrigan/RealmRush">Tower Defence Game</a> 
  
+---
 
+## Languages Known
+
+* Python
+* Javascript
+* C#
 
 
 
