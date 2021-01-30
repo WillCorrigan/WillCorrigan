@@ -11,7 +11,14 @@
 ## I'm currently working on
 <a target="_blank" href="https://github.com/WillCorrigan/InventoryManager">C# Inventory Manager</a>
 
-
+## Notable Projects
+<details>
+<summary>Discord Mafia Bot</summary>
+<br>
+  I created a bot for the popular app <a href="https://discord.com/">Discord</a>. This bot was coded in Python and utilises the Discord API and asynchronous Python to play the social party game of Mafia/Werewolf. Please see the readme for more information!
+  
+  - <a href="https://github.com/WillCorrigan/Discord-Bot-Testing">Github Link</a>
+</details>
 
 
 <!--
