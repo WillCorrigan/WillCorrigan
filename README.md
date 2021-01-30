@@ -74,7 +74,20 @@ Thus, I took it upon myself to learn a very popular Python framework (Django). I
 ---
 
 ## Video Game Development
-#### As I was learning programming and in my spare time learning digital art, I thought it would be fun to also learn video game development alongside my programming studies. Here are a collection of things that I've learnt on the way:
+#### As I was learning programming I was also learning digital art as a hobby alongside it. I thought it would be fun to also learn video game development along with my programming studies. Here are a collection of things that I've created on the way:
+
+These are all created with C# and Unity:
+
+ 1. <a target="_blank" href="https://sharemygame.com/@Holyflare/~cbd864e6-db6a-9036-9024-9397e0e52498">Rocket Boost - Playable Demo</a>
+  
+ 2. <a target="_blank" href="https://github.com/WillCorrigan/6_Zombie_Runner">Zombie Survival Game</a>
+ 
+ 3. <a target="_blank" href="https://github.com/WillCorrigan/RPG-Project">RPG Project</a>
+ 
+ 4. <a target="_blank" href="https://github.com/WillCorrigan/RealmRush">Tower Defence Game</a> 
+ 
+
+
 
 
 <!--
