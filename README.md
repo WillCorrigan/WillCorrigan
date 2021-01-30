@@ -93,6 +93,8 @@ These are all created with C# and Unity:
 * Python
 * Javascript
 * C#
+* HTML/CSS
+* SQL
 
 
 
