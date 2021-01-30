@@ -74,7 +74,7 @@ Thus, I took it upon myself to learn a very popular Python framework (Django). I
 ---
 
 ## Video Game Development
-#### As I was learning programming I was also learning digital art as a hobby alongside it. I thought it would be fun to also learn video game development along with my programming studies. Here are a collection of things that I've created on the way:
+#### As I was learning programming I was also learning digital art as a hobby alongside it. I thought it would be fun to also learn video game development along with my programming studies so that I could combine both my artistic skills and my new passion. Here are a collection of things that I've created on the way:
 
 These are all created with C# and Unity:
 
