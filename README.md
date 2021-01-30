@@ -1,6 +1,6 @@
 #### 👋 Hi, I'm Will!
 
-<h4>I'm a self-taught developer who is currently learning C#. I have a passion for learning new things and have been consumed with learning programming ever since I made my first <a target="_blank" href="https://github.com/WillCorrigan/automatetheboringstuffpython">Python scripts.</a></h4>
+<h4>I'm a self-taught developer who is currently learning C#. I have a passion for learning new things and have been consumed with teaching myself programming ever since I made my first <a target="_blank" href="https://github.com/WillCorrigan/automatetheboringstuffpython">Python scripts.</a></h4>
 
 
 #### Feel free to send me a message if you'd like to chat or help out in any way!
