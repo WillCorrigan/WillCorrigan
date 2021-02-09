@@ -47,7 +47,7 @@ This is a website that utilises React/Node.js/Express.js/PostgreSQL. It allows a
   * Node/Express
   * PostgreSQL
   
-<a href="https://github.com/WillCorrigan/Discord-Bot-Testing">Github Link</a>
+<a href="https://github.com/WillCorrigan/facerecognitionapi">Github Link</a>
 
 <a href="https://smartface-wc.herokuapp.com/">Website Link</a>
 
