@@ -1,6 +1,6 @@
 #### 👋 Hi, I'm Will!
 
-<h4>I'm a self-taught developer who is currently learning C#. I have a passion for learning new things and have been consumed with teaching myself programming ever since I made my first <a target="_blank" href="https://github.com/WillCorrigan/automatetheboringstuffpython">Python scripts.</a></h4>
+<h4>I'm a self-taught software engineer, currently working at <a target="_blank" href="https://www.ir35shield.co.uk/">IR35 Shield</a>. I have a passion for learning new things and have been consumed with teaching myself programming ever since I made my first <a target="_blank" href="https://github.com/WillCorrigan/automatetheboringstuffpython">Python scripts.</a></h4> I currently work heavily in C# (.Net/.Net Core/.Net MVC/.Net Framework/Entity Framework) as a back-end engineer but I also like to dabble with JS/React and Python from time to time.
 
 
 #### Feel free to send me a message if you'd like to chat or help out in any way!
@@ -11,13 +11,33 @@
 
 
 ## I'm currently working on
-<a target="_blank" href="https://github.com/WillCorrigan/InventoryManager">C# Inventory Manager</a>
+
+<a target="_blank" href="https://github.com/WillCorrigan/DiscordBettingBot">C# Discord Betting Bot With Dependency Injection/SQL Integration</a>
+
 
 
 
 
 
 ## Notable Projects
+
+
+
+<!-- C# Inventory Manager -->
+<details>
+<summary>C# Inventory Manager</summary>
+<br>
+When I knew I wanted to be a professional software engineer, I decided to start to focus on skills that would make myself employable and so started to learn how to access databases and design software with real world uses. In my old career, we used an outdated inventory manager and so I wanted to create something that could do a better job than the old piece of software we used at that time.
+
+* Languages/Frameworks Used
+  * C#
+  * .Net Framework
+  * Object Oriented Programming
+  * SQL
+  
+<a target="_blank" href="https://github.com/WillCorrigan/InventoryManager">Github Link</a>
+
+</details>
 
 <!-- Discord Mafia Bot -->
 <details>
