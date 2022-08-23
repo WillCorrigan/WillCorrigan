@@ -114,8 +114,6 @@ These are all created with C# and Unity:
 
 ## Languages Known
 
-* Python
-* Javascript
 * C#
-* HTML/CSS
-* SQL
+* Javascript
+* Python
