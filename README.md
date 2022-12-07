@@ -1,6 +1,6 @@
 #### 👋 Hi, I'm Will!
 
-<h4>I'm a self-taught software engineer, currently working at <a target="_blank" href="https://www.ir35shield.co.uk/">IR35 Shield</a>. I have a passion for learning new things and have been consumed with teaching myself programming ever since I made my first <a target="_blank" href="https://github.com/WillCorrigan/automatetheboringstuffpython">Python scripts</a>. I currently work heavily in C# (.Net/.Net Core/.Net MVC/.Net Framework/Entity Framework) as a back-end engineer but I also like to dabble with JS/React and Python from time to time.</h4>
+<h4>I'm a self-taught software engineer, currently working at <a target="_blank" href="https://www.ir35shield.co.uk/">IR35 Shield</a>. I have a passion for learning new things and have been consumed with teaching myself programming ever since I made my first <a target="_blank" href="https://github.com/WillCorrigan/automatetheboringstuffpython">Python scripts</a>. I currently work heavily in C# (.Net/.Net Core/.Net MVC/.Net Framework/Entity Framework) as a back-end engineer but I also like to dabble with JS/React and Python from time to time and even dabbling in some Go.</h4>
 
 
 #### Feel free to send me a message if you'd like to chat or help out in any way!
@@ -11,6 +11,14 @@
 
 
 ## I'm currently working on
+
+<a target="_blank" href="https://github.com/WillCorrigan/todoapp">A to-do app written in Node/Express/Mongo/React - Backend (full auth)</a>
+
+<a target="_blank" href="https://github.com/WillCorrigan/todoapp-frontend">A to-do app written in Node/Express/Mongo/React - Front end</a>
+
+<a target="_blank" href="https://kaleidoscopic-cupcake-9dce64.netlify.app/">Live Example</a>
+
+I've also been <a target="_blank" href="https://github.com/WillCorrigan/Advent-of-Code-2022">doing the current Advent of Code (2022) in Go.</a> It's been fun! I'll probably start trying to build more things with it.
 
 <a target="_blank" href="https://github.com/WillCorrigan/DiscordBettingBot">C# Discord Betting Bot With Dependency Injection/SQL Integration</a>
 
@@ -116,4 +124,5 @@ These are all created with C# and Unity:
 
 * C#
 * Javascript
+* Go
 * Python
