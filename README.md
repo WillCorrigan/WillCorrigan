@@ -1,6 +1,6 @@
 #### 👋 Hi, I'm Will!
 
-<h4>I'm a self-taught software engineer, currently working at <a target="_blank" href="https://www.ir35shield.co.uk/">IR35 Shield</a>. I have a passion for learning new things and have been consumed with teaching myself programming ever since I made my first <a target="_blank" href="https://github.com/WillCorrigan/automatetheboringstuffpython">Python scripts</a>. I currently work heavily in C# (.Net/.Net Core/.Net MVC/.Net Framework/Entity Framework) as a back-end engineer but I also like to dabble with JS/React and Python from time to time and even dabbling in some Go.</h4>
+<h4>I'm a self-taught software engineer, currently working at <a target="_blank" href="https://www.ir35shield.co.uk/">IR35 Shield</a>. I have a passion for learning new things and have been consumed with teaching myself programming ever since I made my first <a target="_blank" href="https://github.com/WillCorrigan/automatetheboringstuffpython">Python scripts</a>. I currently work heavily in C# (.Net/.Net Core/.Net MVC/.Net Framework/Entity Framework) as a back-end engineer but I also like to dabble with JS/React and Python from time to time and even some Go recently.</h4>
 
 
 #### Feel free to send me a message if you'd like to chat or help out in any way!
