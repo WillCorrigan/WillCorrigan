@@ -12,11 +12,9 @@
 
 ## I'm currently working on
 
-<a target="_blank" href="https://github.com/WillCorrigan/todoapp">A to-do app written in Node/Express/Mongo/React - Backend (full auth)</a>
+A to-do app written in Node/Express/Mongo/React - 
 
-<a target="_blank" href="https://github.com/WillCorrigan/todoapp-frontend">A to-do app written in Node/Express/Mongo/React - Front end</a>
-
-<a target="_blank" href="https://kaleidoscopic-cupcake-9dce64.netlify.app/">Live Example</a>
+<a target="_blank" href="https://github.com/WillCorrigan/todoapp">Backend (full auth)</a> / <a target="_blank" href="https://github.com/WillCorrigan/todoapp-frontend">Front end</a> / <a target="_blank" href="https://kaleidoscopic-cupcake-9dce64.netlify.app/">Live Example</a>
 
 I've also been <a target="_blank" href="https://github.com/WillCorrigan/Advent-of-Code-2022">doing the current Advent of Code (2022) in Go.</a> It's been fun! I'll probably start trying to build more things with it.
 
