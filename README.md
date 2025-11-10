@@ -31,6 +31,21 @@ I'm passionate about the entire software lifecycle, from high-level system archi
 
 > **Note:** These are projects I've built to explore new technologies. My professional work (involving GCP, Kafka, and complex microservice architecture) isn't public, but I'm happy to discuss it!
 
+---
+
+<details open>
+<summary>⭐ Co-Creator: Frontpage.fyi (Open Source AT Protocol Project)</summary>
+<br>
+I am a co-creator of <a href="https://frontpage.fyi/">frontpage.fyi</a>, an open-source, Hacker News-style social media site built on the <a href="https://atproto.com/">AT Protocol</a>.
+<ul>
+  <li><b>Role:</b> Co-creator / Core Contributor</li>
+  <li><b>Tech:</b> AT Protocol, TypeScript, Next.js, pnpm workspaces, Rust, Caddy</li>
+</ul>
+<a href="https://github.com/likeandscribe/frontpage"><b>GitHub Repository</b></a>
+</details>
+
+---
+
 <details>
 <summary>Full-Stack Face Recognition App</summary>
 <br>
